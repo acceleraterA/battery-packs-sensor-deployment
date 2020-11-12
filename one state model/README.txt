@@ -1,0 +1,4 @@
+1. "One_state_model.m conduction_only.m convection_only.m" generate optimal deployment patterns for three cases(cond and conv, cond only, conv only) under tr(Wo) and λmin(Wo) metrics, given the input pack dimention and number of sensors.
+2. "Rcc_case1_and_cond.m" generates the plot on the values of tr(Wo) and λmin(Wo) over a range of Rcc for a 4*4 battery pack system for case1&2.
+3. "ST_case1_and_conv.m" generates the plot on the values of tr(Wo) and λmin(Wo) over a range of ST for a 4*4 battery pack system for case 1&3.
+4. "numofsensorplot.m" generate the plot for the influence of number of sensors on two metrics for a 4*4 battery system
